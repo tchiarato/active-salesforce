@@ -20,7 +20,7 @@ Or install it yourself as:
 ## Usage
 
 1. Create a class and inherit from ActiveSalesforce::Base
-2. Map the local attributes to salesforce attributes (you will find a example at https://github.com/tchiarato/rd-salesforce)
+2. Map the local attributes to salesforce attributes (you will find an example at https://github.com/tchiarato/rd-salesforce)
 3. Create config files to store salesforce's configurations
 4. Invoke create_lead to create a new lead at salesforce. 
 
