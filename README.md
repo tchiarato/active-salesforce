@@ -19,7 +19,6 @@ Or install it yourself as:
 
 ## Usage
 
-To use ActiveSalesforce and create new leads you must follow the steps below:
 1. Create a class and inherit from ActiveSalesforce::Base
 2. Map the local attributes to salesforce attributes (you will find a example at https://github.com/tchiarato/rd-salesforce)
 3. Create config files to store salesforce's configurations
